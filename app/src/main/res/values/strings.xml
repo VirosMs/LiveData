@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LiveData</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cambio">CAMBIO</string>
+    <string name="todo">TODO</string>
+    <string name="iniciar">Iniciar</string>
+</resources>
